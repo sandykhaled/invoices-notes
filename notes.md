@@ -7,7 +7,9 @@ value={{date('Y-m-d')}} in input filed of type=text
     type="text" value="{{ date('Y-m-d') }}" required>
 ```
  **Note** fc-datepicker => عشان اخلي التاريخ فورمات التاريخ <br/>
+ <br/>
 2. إضافة صورة في php يجب إضافة في form
 ```
  enctype="multipart/form-data"
 ```
+
