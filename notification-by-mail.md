@@ -37,3 +37,7 @@ MAIL_ENCRYPTION=ssl
 MAIL_FROM_ADDRESS="example@gmail.com"
 MAIL_FROM_NAME="${APP_NAME}"
 ```
+**In terminal --case change app_name**
+```
+php artisan config:cache
+```
