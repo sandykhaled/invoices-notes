@@ -1,5 +1,6 @@
 ##print
 **CSS CODE**
+```
 <style>
     @media print {
         #print_Button{
@@ -7,6 +8,7 @@
         }
     }
     </style>
+```
 **PHP CODE**
 ```
 <a href="#" class="btn btn-danger float-left mt-3 mr-2" id="print_Button" onclick="printDiv()">
