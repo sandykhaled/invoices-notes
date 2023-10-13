@@ -1,6 +1,6 @@
 **User Premission**
 
-[Spaite](https://spatie.be/docs/laravel-permission/v5/introduction) <br/> [Another Link](https://16shuklarahul.medium.com/laravel-7-x-9ed4d41d327c)
+[Spaite](https://spatie.be/docs/laravel-permission/v5/introduction) [Another Link](https://16shuklarahul.medium.com/laravel-7-x-9ed4d41d327c)  <br/>
 [laratrust](https://laratrust.santigarcor.me/)
 
 **Excel**
