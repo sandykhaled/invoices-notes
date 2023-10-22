@@ -6,3 +6,6 @@
 **Excel**
 
 [Laravel Excel](https://docs.laravel-excel.com/3.1/getting-started/)
+
+**ColorHunt** 
+[colorhunt](https://colorhunt.co/palette/f9b57299b080748e63faf8ed)
